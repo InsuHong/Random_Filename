@@ -1,0 +1,16 @@
+C:\Users\홍인수\source\repos\Random Filename\Random Filename\bin\Debug\net8.0-windows\Random Filename.exe
+C:\Users\홍인수\source\repos\Random Filename\Random Filename\bin\Debug\net8.0-windows\Random Filename.deps.json
+C:\Users\홍인수\source\repos\Random Filename\Random Filename\bin\Debug\net8.0-windows\Random Filename.runtimeconfig.json
+C:\Users\홍인수\source\repos\Random Filename\Random Filename\bin\Debug\net8.0-windows\Random Filename.dll
+C:\Users\홍인수\source\repos\Random Filename\Random Filename\bin\Debug\net8.0-windows\Random Filename.pdb
+C:\Users\홍인수\source\repos\Random Filename\Random Filename\obj\Debug\net8.0-windows\Random_Filename.Form1.resources
+C:\Users\홍인수\source\repos\Random Filename\Random Filename\obj\Debug\net8.0-windows\Random Filename.csproj.GenerateResource.cache
+C:\Users\홍인수\source\repos\Random Filename\Random Filename\obj\Debug\net8.0-windows\Random Filename.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\홍인수\source\repos\Random Filename\Random Filename\obj\Debug\net8.0-windows\Random Filename.AssemblyInfoInputs.cache
+C:\Users\홍인수\source\repos\Random Filename\Random Filename\obj\Debug\net8.0-windows\Random Filename.AssemblyInfo.cs
+C:\Users\홍인수\source\repos\Random Filename\Random Filename\obj\Debug\net8.0-windows\Random Filename.csproj.CoreCompileInputs.cache
+C:\Users\홍인수\source\repos\Random Filename\Random Filename\obj\Debug\net8.0-windows\Random Filename.dll
+C:\Users\홍인수\source\repos\Random Filename\Random Filename\obj\Debug\net8.0-windows\refint\Random Filename.dll
+C:\Users\홍인수\source\repos\Random Filename\Random Filename\obj\Debug\net8.0-windows\Random Filename.pdb
+C:\Users\홍인수\source\repos\Random Filename\Random Filename\obj\Debug\net8.0-windows\Random Filename.genruntimeconfig.cache
+C:\Users\홍인수\source\repos\Random Filename\Random Filename\obj\Debug\net8.0-windows\ref\Random Filename.dll
