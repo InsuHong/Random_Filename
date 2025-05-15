@@ -32,15 +32,14 @@
             button_make = new Button();
             textBox_filename = new TextBox();
             label1 = new Label();
-            button_copy = new Button();
             comboBox_ext = new ComboBox();
             SuspendLayout();
             // 
             // button_make
             // 
-            button_make.Location = new Point(12, 67);
+            button_make.Location = new Point(19, 65);
             button_make.Name = "button_make";
-            button_make.Size = new Size(129, 64);
+            button_make.Size = new Size(268, 64);
             button_make.TabIndex = 0;
             button_make.Text = "생성";
             button_make.UseVisualStyleBackColor = true;
@@ -62,16 +61,6 @@
             label1.TabIndex = 2;
             label1.Text = "파일명";
             // 
-            // button_copy
-            // 
-            button_copy.Location = new Point(160, 65);
-            button_copy.Name = "button_copy";
-            button_copy.Size = new Size(127, 64);
-            button_copy.TabIndex = 3;
-            button_copy.Text = "복사(Ctrl+C)";
-            button_copy.UseVisualStyleBackColor = true;
-            button_copy.Click += button_copy_Click;
-            // 
             // comboBox_ext
             // 
             comboBox_ext.FormattingEnabled = true;
@@ -87,7 +76,6 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(306, 141);
             Controls.Add(comboBox_ext);
-            Controls.Add(button_copy);
             Controls.Add(label1);
             Controls.Add(textBox_filename);
             Controls.Add(button_make);
@@ -104,7 +92,6 @@
         private Button button_make;
         private TextBox textBox_filename;
         private Label label1;
-        private Button button_copy;
         private ComboBox comboBox_ext;
     }
 }

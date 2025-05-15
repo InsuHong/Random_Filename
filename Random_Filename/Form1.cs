@@ -17,7 +17,16 @@ namespace Random_Filename
         {
             var timeSpan = (DateTime.UtcNow - new DateTime(1970, 1, 1, 0, 0, 0));
             long timeSpan2 = (long) timeSpan.TotalSeconds;
-            return (string) timeSpan2.ToString() + "." + comboBox_ext.SelectedItem.ToString();
+            
+            string ret_text = (string)timeSpan2.ToString() + "." + comboBox_ext.SelectedItem.ToString();
+
+            try
+            {
+                if (ret_text != "") Clipboard.SetText(ret_text);
+            }
+            catch { }
+
+            return ret_text;
 
         }
 
@@ -26,14 +35,5 @@ namespace Random_Filename
             textBox_filename.Text = Make_Number();
         }
 
-        private void button_copy_Click(object sender, EventArgs e)
-        {
-            try
-            {
-               if(textBox_filename.Text != "") Clipboard.SetText(textBox_filename.Text);
-            }
-            catch { }
-
-        }
     }
 }
